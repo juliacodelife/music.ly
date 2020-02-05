@@ -12,7 +12,7 @@ Music.ly is simple music app created with JavaScript, jQuery, Ajax, PHP and MySQ
 This application was created for the purpose of postgraduate studies.
 
 ## Screenshots
-![Screenshot](./img/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/60628108/73880765-55650c00-485f-11ea-9359-ea5fbc08fe83.png)
 
 ## Technologies
 * HTML5
