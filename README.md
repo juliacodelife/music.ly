@@ -7,10 +7,11 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Key features](#key-features)
+* [Inspiration](#inspiration)
 
 ## General info
 Music.ly is simple music app created with JavaScript, jQuery, Ajax, PHP and MySQL, that provides the main functions you'd expect from a music app, such as listen to music, build collections of music.
-This application was created for the purpose of postgraduate studies.
+This application was created as the final project of postgraduate studies.
 
 ## Technologies
 * HTML5
@@ -42,3 +43,6 @@ $ npm start
 * Search
 * Your Library
 * Shuffle play
+
+## Inspiration
+Many thanks to Reece Kenney. This music app is based on the Udemy course.
